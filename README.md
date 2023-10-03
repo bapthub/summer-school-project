@@ -5,10 +5,11 @@ Students:
 Baptiste Bucamp, Aymen Ezzayer, Thomas Leblond, Huu Phuc Le, Hugo Simony-Jungo
 
 Subjet : 
-Predict Epita Students Enrollment Using Machine Learning Methods
+Predict Epita's Students Enrollment Using Machine Learning Methods
 
-Apply DE techniques to collect suitable Data (from any university, any country, ... )
-Apply ML or DM methods on the collected data
+- Apply DE techniques to collect suitable Data (from any university, any country, ... )
+
+- Apply ML or DM methods on the collected data
 
 Dataset's choice
 Name : Parcoursup's application list
